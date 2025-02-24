@@ -1,3 +1,9 @@
+🌍 Available languages:  
+- 🇪🇸 [Español](README.md)  
+- 🇬🇧 [English](README.en.md)  
+
+
+
 # 🚀 Monitor de Disponibilidad de Productos
 
 Sistema automatizado para detectar cambios de disponibilidad de productos en sitios web, con notificaciones sonoras y monitoreo paralelo.
@@ -20,8 +26,8 @@ Sistema automatizado para detectar cambios de disponibilidad de productos en sit
 
 ### Instalar dependencias principales
 
-pip install requests beautifulsoup4
-pip install winsound
+    pip install requests beautifulsoup4
+    pip install winsound
 
 
 ## 🚦 Configuración Rápida
